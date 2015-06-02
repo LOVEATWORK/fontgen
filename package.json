@@ -1,6 +1,6 @@
 {
   "name": "font-gen",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-push-release": "^0.1.1",

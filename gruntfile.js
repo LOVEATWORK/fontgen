@@ -19,6 +19,7 @@ module.exports = function(grunt) {
                     engine: 'node',
                     htmlDemo: true,
                     font: "swedishlapland-icons",
+                    types: 'eot,woff,ttf,svg',
                     templateOptions: {
                         baseClass: 'swl-icon',
                         classPrefix: 'icon-'
