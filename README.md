@@ -14,7 +14,7 @@ npm install
 ```
 grunt
 ```
-Default action generates font files and saves to /build directory including .css-file and demo HTML-file
+Default action generates font files from icons in `/icons` dir and saves to `/build` directory including .css-file and demo HTML-file
 
 ```
 grunt deploy
