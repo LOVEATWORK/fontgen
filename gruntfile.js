@@ -47,6 +47,7 @@ module.exports = function(grunt) {
     });
 
     // 4. Where we tell Grunt what to do when we type "grunt" into the terminal.
-    grunt.registerTask('default', []);
+    grunt.registerTask('default', ['webfont']);
+    grunt.registerTask('deploy', ['webfont', 'push:major']);
 
 };
