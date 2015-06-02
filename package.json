@@ -1,8 +1,9 @@
 {
   "name": "font-gen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "devDependencies": {
     "grunt": "~0.4.1",
+    "grunt-push-release": "^0.1.1",
     "grunt-webfont": "^0.5.3",
     "load-grunt-tasks": "^3.2.0"
   },
