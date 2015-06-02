@@ -5,6 +5,6 @@ Generate fonts from SVG icons
 Requires grunt
 
 To install clone repo and run
-´´´
+```
 npm install
-´´´
+```
